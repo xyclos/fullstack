@@ -1,9 +1,9 @@
 {
-  "name": "fullstack-boilerplate",
+  "name": "punk-sock",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:TrillCyborg/fullstack.git",
-  "author": "Jason Werner <jason@trxrg.com>",
+  "repository": "git@github.com:xyclos/fullstack.git",
+  "author": "Jake Johnson <jake@xyclos.com>",
   "license": "MIT",
   "private": false
 }
